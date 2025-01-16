@@ -1,0 +1,12 @@
+{
+    "name": "Jane Smith",
+    "tag": "janesmith",
+    "location": "San Francisco, USA",
+    "image": "https://example.com/avatar.jpg",
+    "stats": {
+      "followers": 1500,
+      "views": 8000,
+      "likes": 350
+    }
+  }
+  
