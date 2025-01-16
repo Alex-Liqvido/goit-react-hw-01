@@ -1,12 +1,11 @@
 {
-    "name": "Jane Smith",
-    "tag": "janesmith",
-    "location": "San Francisco, USA",
-    "image": "https://example.com/avatar.jpg",
+    "username": "Jacques Gluke",
+    "tag": "jgluke",
+    "location": "Ocho Rios, Jamaica",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
     "stats": {
-      "followers": 1500,
-      "views": 8000,
-      "likes": 350
+      "followers": 5603,
+      "views": 4827,
+      "likes": 1308
     }
   }
-  
